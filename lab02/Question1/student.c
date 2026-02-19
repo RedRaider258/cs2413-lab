@@ -53,7 +53,7 @@ bool isValid(const char *s) {
     //
     // Note:
     // - Input contains only bracket characters, per the prompt.
-
+//Today is Thursday 
     (void)s; // remove after implementing
     return false; // placeholder
 }
